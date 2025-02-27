@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stamps and I'm a software developer at Cognito Health
-- 👋 Previously, I was a postdoctoral researcher at the University of British Columbia in the Data Management & Mining Lab
+- 🔬 Previously, I was a postdoctoral researcher at the University of British Columbia in the Data Management & Mining Lab
 - 👀 I’m interested in misinformation mitigation, social network analysis, fair combinatorial optimization, and knowledge graphs!
 - 📫 You can reach by sending mail to michaelesimp at gmail dot com
 
